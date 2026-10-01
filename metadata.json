@@ -1,0 +1,6 @@
+{
+  "name": "Markets Overview — TradingView",
+  "description": "Global financial markets dashboard tracking real-time US and world indices, stocks, crypto, futures, forex, bonds, and interactive Supercharts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
